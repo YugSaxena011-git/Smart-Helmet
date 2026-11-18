@@ -1,0 +1,6 @@
+{
+  "name": "AegisCore - Smart Industrial Safety Helmet Showcase",
+  "description": "A 45-second hyper-realistic cinematic corporate technology showcase and interactive technical inspection suite for the AegisCore Smart Industrial Safety Helmet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
